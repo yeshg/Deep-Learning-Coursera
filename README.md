@@ -1,3 +1,3 @@
 # Deep-Learning-Coursera-Specialization
 
-Download imagenet-vgg-verydeep-19.mat from somewhere
+Only contains code and quiz answers, powerpoints and .h5 files take up too much space.
